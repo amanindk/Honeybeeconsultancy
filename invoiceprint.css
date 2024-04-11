@@ -1,0 +1,33 @@
+
+.btn , .NoPrint 
+{
+    display: none;
+}
+
+.form-control
+{
+    border: 0px;
+}
+
+.input-group-text
+{
+    border: 0px;
+    background-color: white;
+}
+
+table 
+{
+    border : none;
+}
+
+.logo a img{
+      display: none;
+  }
+
+  .card-header h4{
+    color: aquamarine;
+  }
+
+.one-input{
+  border:none;
+}
